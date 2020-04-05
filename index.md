@@ -2,6 +2,7 @@
 
 ## CS499 Capstone Project 
 
+```markdown
 
 ##### [Professional Self Assessment](/ProfessionalSelfAssessment.md)
 ##### [Refinement Plan and Code Review](/RefinementPlanAndCodeReview.md)
@@ -10,5 +11,5 @@
 ##### [Enhancment Three: Databases](/EnhancmentThree.md)
 ##### [Security Considerations](/SecurityConsideration.md)
 
-
+'''
 
