@@ -1,5 +1,6 @@
 ## Welcome to my ePortfolio
 <p align="center">
+  [GitHub](http://github.com)
   <b>Some Links:</b><br>
   <a href="/ProfessionalSelfAssessment.md">Professional Self Assessment</a>
   <a href="#">Refinement Plan and Code Review</a>
