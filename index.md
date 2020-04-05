@@ -2,7 +2,7 @@
 
 ## CS499 Capstone Project 
 
-```
+```Markdown
 ##### [Professional Self Assessment](/ProfessionalSelfAssessment.md)
 ##### [Refinement Plan and Code Review](/RefinementPlanAndCodeReview.md)
 ##### [Enhancment One: Software Design and Engineering](/EnhancmentOne.md)
