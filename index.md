@@ -1,4 +1,12 @@
-## Welcome to My Github Page
+## Welcome to my ePortfolio
+<p align="center">
+  <b>Some Links:</b><br>
+  <a href="#">Link 1</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 3</a>
+  <br><br>
+  <img src="http://s.4cdn.org/image/title/105.gif">
+</p>
 
 You can use the [editor on GitHub](https://github.com/diamondadam/diamondadam.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
