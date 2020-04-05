@@ -1,16 +1,15 @@
 ## Welcome to my ePortfolio
 <p align="center">
   <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
+  <a href="#">Professional Self Assessment</a>
+  <a href="#">Refinement Plan and Code Review</a>
+  <a href="#">Enhancment One: Software Design and Engineering</a> |
+  <a href="#">Enhancment Two: Algorithms and Data Sturctures</a> |
+  <a href="#">Enhancment Three: Databases</a>
+  <a href="#">Security Considerations</a>
   <br><br>
-  <img src="http://s.4cdn.org/image/title/105.gif">
+  <img "">
 </p>
-
-You can use the [editor on GitHub](https://github.com/diamondadam/diamondadam.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
