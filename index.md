@@ -1,8 +1,9 @@
 ## Welcome to my ePortfolio
+[Professional Self Assessment](/ProfessionalSelfAssessment.md)
 <p align="center">
-  [GitHub](http://github.com)
+  
   <b>Some Links:</b><br>
-  <a href="/ProfessionalSelfAssessment.md">Professional Self Assessment</a>
+  <a</a>
   <a href="#">Refinement Plan and Code Review</a>
   <a href="#">Enhancment One: Software Design and Engineering</a> |
   <a href="#">Enhancment Two: Algorithms and Data Sturctures</a> |
