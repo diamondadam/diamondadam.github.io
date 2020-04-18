@@ -1,3 +1,2 @@
 # Code Review: Initial Project Files
-
-<video src="codeReview.mp4" width="320" height="200" controls preload></video>
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
