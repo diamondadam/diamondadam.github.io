@@ -1,4 +1,4 @@
 # Code Review: Initial Project Files
 
 
-[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+[![CodeReview](https://github.com/diamondadam/diamondadam.github.io/blob/master/WelcomePage.jpg)](https://www.youtube.com/watch?v=98mh3jxcuxI "Code Review")
