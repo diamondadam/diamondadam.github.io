@@ -1,5 +1,3 @@
-<div align="center">  
-  
 # Welcome to my ePortfolio
 
 ## CS499 Capstone Project 
@@ -10,4 +8,3 @@
 ##### [Enhancment One: Software Design and Engineering](/EnhancementOne.md)
 ##### [Enhancment Two: Algorithms and Data Sturctures](/EnhancementTwo.md)
 ##### [Enhancment Three: Databases](/EnhancementThree.md)
-</div>
