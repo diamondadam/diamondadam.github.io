@@ -2,7 +2,7 @@
 
 ## CS499 Capstone Project 
 
-
+![PersonalImage](20200404_200651.jpg)
 ##### [Professional Self Assessment](/ProfessionalSelfAssessment.md)
 ##### [Refinement Plan and Code Review](/RefinementPlanAndCodeReview.md)
 ##### [Enhancment One: Software Design and Engineering](/EnhancementOne.md)
