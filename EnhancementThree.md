@@ -1,5 +1,5 @@
 # Enhancement Three: Databases 
-## The following links go to the repositories referenced.
+#### The following links go to the repositories referenced.
 ##### [Android Application](https://github.com/diamondadam/CustomTool)
 ##### [Server File](https://github.com/diamondadam/DataCollectionServer)
 ##### [Data Analysis Program](https://github.com/diamondadam/DataAnalysis)
