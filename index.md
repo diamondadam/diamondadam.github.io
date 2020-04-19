@@ -8,6 +8,3 @@
 ##### [Enhancment One: Software Design and Engineering](/EnhancementOne.md)
 ##### [Enhancment Two: Algorithms and Data Sturctures](/EnhancementTwo.md)
 ##### [Enhancment Three: Databases](/EnhancementThree.md)
-##### [Security Considerations](/SecurityConsideration.md)
-
-
