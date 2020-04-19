@@ -1,5 +1,8 @@
 # Enhancement One: Software Design and Engineering 
 ## The following links go to the repositories referenced.
+##### [Android Application](https://github.com/diamondadam/CustomTool)
+##### [Server File](https://github.com/diamondadam/DataCollectionServer)
+##### [Data Analysis Program](https://github.com/diamondadam/DataAnalysis)
 
 
 My artifact is a Data Collection System designed to integrate with my Companies current data recording system. The artifact is comprised of an Android application, an apache webserver, and a machine learning program. The goal of this artifact is to enable users to seamlessly scan and record accurate job times from their phone. In addition, it provides the user with the job description, and quotes labor times. I created this artifact about one week before beginning the course, so it was still in its infancy when I planned these enhancements.<br/>
