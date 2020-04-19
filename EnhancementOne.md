@@ -1,5 +1,7 @@
+<div align="center">  
+  
 # Enhancement One: Software Design and Engineering 
-
+</div>
   My artifact is a Data Collection System designed to integrate with my Companies current data recording system. The artifact is comprised of an Android application, an apache webserver, and a machine learning program. The goal of this artifact is to enable users to seamlessly scan and record accurate job times from their phone. In addition, it provides the user with the job description, and quotes labor times. I created this artifact about one week before beginning the course, so it was still in its infancy when I planned these enhancements.\
   \
  I chose this artifact because it displays my abilities to create a real-world application that integrates with current systems. This multilayered system displays my ability to acquire business requirements from stakeholders and then design a solution to meet their needs. It also displays my ability to engineer the best solution given available resources. For example, I was not allowed to have direct access to the main database (because of sensitive information such as finances), yet I still persevered and engineered a solution that is not only practical, but the best solution given the circumstances. Furthermore, the barcode scanner that I integrated to scan documents displays my ability to understand and implement a third-party API created by companies, such as Google in this case. Overall, the artifact showcases my abilities to create a user friendly and easy to use application that accurately stores and interprets valuable business information.\
