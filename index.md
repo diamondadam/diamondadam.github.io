@@ -1,4 +1,5 @@
-<div align="center"># Welcome to my ePortfolio
+<div align="center"> 
+# Welcome to my ePortfolio
 
 ## CS499 Capstone Project 
 
