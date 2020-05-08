@@ -1,8 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
+
 <head>
     <meta charset="UTF-8">
-    <title>Welcome to my ePortfolio</title>
     <link rel = "stylesheet"
           type = "text/css"
           href = "main.css" />
