@@ -6,16 +6,16 @@
           href = "main.css" />
 </head>
 
-<div id="header_row">
-    <div class="dropdown">
-        <button class="projects">Menu</button>
-        <div class="dropdown-content">
-            <a href="https://github.com/diamondadam/DataCollectionServer">About Me</a>
-            <a href="https://github.com/diamondadam/CustomTool">My Projects</a>
-            <a href="https://github.com/diamondadam/DataAnalysis">Contact Me</a>
-        </div>
+
+<div class="dropdown">
+    <button class="projects">Menu</button>
+    <div class="dropdown-content">
+        <a href="https://github.com/diamondadam/DataCollectionServer">About Me</a>
+        <a href="https://github.com/diamondadam/CustomTool">My Projects</a>
+        <a href="https://github.com/diamondadam/DataAnalysis">Contact Me</a>
     </div>
 </div>
+
 
 <h1>About Me</h1>
 
