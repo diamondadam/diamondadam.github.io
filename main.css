@@ -32,7 +32,9 @@ body {
 }
 
 .dropdown {
-    position: relative;
+    position:absolute;
+    top:100%;
+    left:100%;
     display: inline-block;
 }
 
