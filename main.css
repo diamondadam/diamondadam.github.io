@@ -1,0 +1,63 @@
+
+head{
+    background-color: grey;
+}
+body {
+    background-color: grey;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+
+#aboutMeParagraph{
+    border-radius: 25px;
+    background-position: center;
+    padding: 25px;
+    text-indent: initial;
+    background-color: wheat;
+}
+
+#header_row{
+    background-color: black;
+    text-align: left;
+}
+
+.projects {
+    border-radius: 10px;
+    margin: 5px;
+    background-color: #808080;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 150px;
+    border-radius: 10px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    border-radius: 10px;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #808080;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .projects {background-color: #808080;}
