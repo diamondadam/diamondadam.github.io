@@ -24,8 +24,8 @@ body {
 .projects {
     border-radius: 10px;
     margin: 5px;
-    background-color: #808080;
-    color: white;
+    background-color: black;
+    color: lightslategray;
     padding: 16px;
     font-size: 16px;
     border: none;
@@ -33,8 +33,8 @@ body {
 
 .dropdown {
     position:absolute;
-    top:100%;
-    left:100%;
+    top:25%;
+    left:25%;
     display: inline-block;
 }
 
@@ -49,15 +49,15 @@ body {
 }
 
 .dropdown-content a {
-    color: black;
+    color: lightslategray;
     border-radius: 10px;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
 }
 
-.dropdown-content a:hover {background-color: #808080;}
+.dropdown-content a:hover {background-color: black;}
 
 .dropdown:hover .dropdown-content {display: block;}
 
-.dropdown:hover .projects {background-color: #808080;}
+.dropdown:hover .projects {background-color: black;}
