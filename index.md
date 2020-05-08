@@ -6,7 +6,6 @@
           href = "main.css" />
 </head>
 
-
 <div class="dropdown">
     <button class="projects">Menu</button>
     <div class="dropdown-content">
@@ -19,9 +18,6 @@
 
 <h1>About Me</h1>
 
-
-
-
 <body>
 <img src="20200404_200651.jpg" alt="Personal Photo">
 <p id="aboutMeParagraph"> Hi, my name is Adam Diamond, I have spent six years employed as a Machinist and am looking to make career
@@ -29,4 +25,3 @@
     years ago, and have since attended college, while working full-time, with the dream of switching careers to Software
     Engineering. </p>
 </body>
-</html>
