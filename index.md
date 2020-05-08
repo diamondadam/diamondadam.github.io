@@ -9,9 +9,9 @@
 <div class="dropdown">
     <button class="projects">Menu</button>
     <div class="dropdown-content">
-        <a href="https://github.com/diamondadam/DataCollectionServer">About Me</a>
-        <a href="https://github.com/diamondadam/CustomTool">My Projects</a>
-        <a href="https://github.com/diamondadam/DataAnalysis">Contact Me</a>
+        <a href="https://diamondadam.github.io/">About Me</a>
+        <a href="https://diamondadam.github.io/myprojects">My Projects</a>
+        <a href="https://diamondadam.github.io/contactme">Contact Me</a>
     </div>
 </div>
 
