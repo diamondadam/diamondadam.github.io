@@ -15,5 +15,5 @@
 </div>
 
 # Contact Me
-#### Phone Number: 724-884-3939
-##### Email: diamondadam94@gmail.com
+## Phone Number: 724-884-3939
+## Email: diamondadam94@gmail.com
