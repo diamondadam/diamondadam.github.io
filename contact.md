@@ -2,7 +2,7 @@
     <meta charset="UTF-8">
     <link rel = "stylesheet"
           type = "text/css"
-          href = "main.css" /><title>Contact Me</title>
+          href = "main.css" />
 </head>
 
 <div class="dropdown">
@@ -15,5 +15,5 @@
 </div>
 
 # Contact Me
-#### Phone Number: 7248843939
+#### Phone Number: 724-884-3939
 ##### Email: diamondadam94@gmail.com
