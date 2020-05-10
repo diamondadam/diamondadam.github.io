@@ -3,7 +3,7 @@
     <meta charset="UTF-8">
     <link rel = "stylesheet"
           type = "text/css"
-          href = "main.css" /><title></title>
+          href = "main.css" />
 </head>
 
 <div class="dropdown">
