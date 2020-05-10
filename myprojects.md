@@ -26,13 +26,13 @@ This is the server program, that would handle the requests sent by the applicati
 This program connects with the database on the server. It then encodes the various features as integers and uses k-closest neighbors to find the most similar part previously ran. Using this I was able to estimate the setup and runtimes for various parts based just off of their features.
 
 ## Mongo-Database-and-RESTful-API
-* ##### [Mongo-Database-and-RESTful-API Repository](https://github.com/diamondadam/DataAnalysis)
+* ##### [Mongo-Database-and-RESTful-API Repository](https://github.com/diamondadam/Mongo-Database-and-RESTful-Api)
 This repository displays my skills using Python to create a RESTful Web API and using it to interact with a Mongo DB.
 
 ## Weather-IOT-Device
-* ##### [Weather-IOT-Device](https://github.com/diamondadam/DataAnalysis)
+* ##### [Weather-IOT-Device](https://github.com/diamondadam/Weather-IOT-Device)
 This repository showcases my skills using Python, an IoT device to gather real world information and then storing that information for further analysis.
 
 ## OpenGL-Project
-* ##### [OpenGL-Project](https://github.com/diamondadam/DataAnalysis)
+* ##### [OpenGL-Project](https://github.com/diamondadam/OpenGL-Project)
 WHile my artistic abilities are questionable, this repository showcases my skills using C++ and third-party APIs.
