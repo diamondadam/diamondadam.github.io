@@ -6,6 +6,4 @@
 ![alt text](res/MainMenu.png)
 ##### This includes a navigation drawer to the various other fragments in the app.
 ![alt text](res/NavigationBar.png)
-##### Users use this page to scan the barcode on the "traveler" documention.
-![alt text](res/BarcodeScanner.jpg)
 
