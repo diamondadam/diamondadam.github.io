@@ -24,9 +24,8 @@ This program connects with the database on the server. It then encodes the vario
 
 ## Mongo-Database-and-RESTful-API
 ##### [Mongo Database and RESTful API](https://github.com/diamondadam/Mongo-Database-and-RESTful-Api)
-This repository displays my skills using Python to create a RESTful Web API and using it to interact with a Mongo DB.
-
+In this repository I have a simple python file that showcases some of my skills utilizing 3rd party APIs and interacting with Mongo Database
 
 ## OpenGL-Project
 ##### [OpenGL Project](https://github.com/diamondadam/OpenGL-Project)
-While my artistic abilities are questionable, this repository showcases my skills using C++ and third-party APIs.
+While my artistic abilities are questionable, this repository showcases my skills using C++ and third-party APIs. Inside the main cpp file I use OpenGL to create and render a 3D object in this case a butter knife.
