@@ -16,7 +16,7 @@
 
 ## Android Development
 ##### [Custom Tool and Grinding Data App](https://github.com/diamondadam/CustomTool)
-In the above repository I built an android application to interact with a workplace server for logging times. For instance, in the manufacturing shop this was designed for, there were barcodes on workplace documents designating operations to be logged into. With this application a user would be able to simply scan a barcode and log in remotely, rather than using a terminal that could be a significant distance away. I created this in the hopes that workers would more accurately record job times, since previously they would not. [Example Screens can be found here.](https://diamondadam.github.io/samples)
+In the above repository I built an android application to interact with a workplace server for logging times. For instance, in the manufacturing shop this was designed for, there were barcodes on workplace documents designating operations to be logged into. With this application a user would be able to simply scan a barcode and log in remotely, rather than using a terminal that could be a significant distance away. I created this to try and get workers to more accurately record job times, since previously they would not. [Example Screens can be found here.](https://diamondadam.github.io/samples)
 
 ## Data Analysis
 ##### [Data Analysis Program](https://github.com/diamondadam/DataAnalysis)
