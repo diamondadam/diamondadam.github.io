@@ -22,9 +22,9 @@ In the above repository I built an android application to interact with a workpl
 ##### [Data Analysis Program](https://github.com/diamondadam/DataAnalysis)
 This program connects with the database on the server. It then encodes the various features as integers and uses k-closest neighbors to find the most similar part previously ran. Using this I was able to estimate the setup and runtimes for various parts based just off of their features.
 
-## Mongo-Database-and-RESTful-API
+## Databases Mongo and SQLite
 ##### [Mongo Database and RESTful API](https://github.com/diamondadam/Mongo-Database-and-RESTful-Api)
-In this repository I have a simple Python file that showcases some of my skills utilizing third-party APIs and interacting with a Mongo Database.
+In this repository I have a simple Python file that showcases some of my skills utilizing third-party APIs and interacting with a Mongo Database. In addition to being able to interact with a Mongo Database, the [Custom Tool and Grinding App](https://github.com/diamondadam/CustomTool) utilizes Room to create and manage a SQLite database. 
 
 ## OpenGL-Project
 ##### [OpenGL Project](https://github.com/diamondadam/OpenGL-Project)
