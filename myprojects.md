@@ -26,7 +26,7 @@ This program connects with the database on the server. It then encodes the vario
 ##### [Mongo Database and RESTful API](https://github.com/diamondadam/Mongo-Database-and-RESTful-Api)
 In this repository I have a simple Python file that showcases some of my skills utilizing third-party APIs and interacting with a Mongo Database. 
 
-#####[Custom Tool and Grinding Data App](https://github.com/diamondadam/CustomToolAndGrindingDataApp) Here the Custom Tool and Grinding Data App utilizes Room to create and manage a SQLite database. 
+##### [Custom Tool and Grinding Data App](https://github.com/diamondadam/CustomToolAndGrindingDataApp) Here the Custom Tool and Grinding Data App utilizes Room to create and manage a SQLite database. 
 
 ## Computer Graphics
 ##### [OpenGL Project](https://github.com/diamondadam/OpenGL-Project)
