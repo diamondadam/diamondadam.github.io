@@ -15,7 +15,7 @@
 </div>
 
 ## Android Development
-##### [Custom Tool and Grinding Data App](https://github.com/diamondadam/CustomTool)
+##### [Custom Tool and Grinding Data App](https://github.com/diamondadam/CustomToolAndGrindingDataApp)
 In the above repository I built an android application to interact with a workplace server for logging times. For instance, in the manufacturing shop this was designed for, there were barcodes on workplace documents designating operations to be logged into. With this application a user would be able to simply scan a barcode and log in remotely, rather than using a terminal that could be a significant distance away. I created this to try and get workers to more accurately record job times, since previously they would not. [Example Screens can be found here.](https://diamondadam.github.io/samples)
 
 ## Data Analysis
@@ -24,7 +24,7 @@ This program connects with the database on the server. It then encodes the vario
 
 ## Databases
 ##### [Mongo Database and RESTful API](https://github.com/diamondadam/Mongo-Database-and-RESTful-Api)
-In this repository I have a simple Python file that showcases some of my skills utilizing third-party APIs and interacting with a Mongo Database. In addition to being able to interact with a Mongo Database, the [Custom Tool and Grinding App](https://github.com/diamondadam/CustomTool) utilizes Room to create and manage a SQLite database. 
+In this repository I have a simple Python file that showcases some of my skills utilizing third-party APIs and interacting with a Mongo Database. In addition to being able to interact with a Mongo Database, the [Custom Tool and Grinding App](https://github.com/diamondadam/CustomToolAndGrindingDataApp) utilizes Room to create and manage a SQLite database. 
 
 ## Computer Graphics
 ##### [OpenGL Project](https://github.com/diamondadam/OpenGL-Project)
